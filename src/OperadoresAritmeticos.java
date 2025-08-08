@@ -1,4 +1,4 @@
-public class Operadores {
+public class OperadoresAritmeticos {
     public static void main(String[] args) {
         int numeroUno =  8;
         int numeroDos = 4;

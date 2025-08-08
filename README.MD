@@ -6,4 +6,4 @@
 4. Introducir valores por consola.
 5. Conversión de Tipos.
 6. Constantes
-7. Operadores
+7. Aritmeticos Aritmeticos
